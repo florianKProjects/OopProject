@@ -1,0 +1,32 @@
+﻿  Home.cpp
+  SubjectNameDlg.cpp
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(29,3): error C2065: 'comboboxContextType': undeclared identifier
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(29,36): error C2065: 'Lcontextvaluse': undeclared identifier
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(33,32): error C2064: term does not evaluate to a function taking 1 arguments
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(37,1): error C2144: syntax error: 'void' should be preceded by ';'
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(38,1): error C2601: 'SubjectNameDlg::DoDataExchange': local function definitions are illegal
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(19): message : this line contains a '{' which has not yet been matched
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(45,1): error C2601: 'SubjectNameDlg::GetMessageMap': local function definitions are illegal
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(19): message : this line contains a '{' which has not yet been matched
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(45,1): error C2601: 'SubjectNameDlg::GetThisMessageMap': local function definitions are illegal
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(19): message : this line contains a '{' which has not yet been matched
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(56,22): error C2039: 'OnEnChangeName': is not a member of 'SubjectNameDlg'
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.h(6): message : see declaration of 'SubjectNameDlg'
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(57,1): error C2601: 'OnEnChangeName': local function definitions are illegal
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(19): message : this line contains a '{' which has not yet been matched
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(67,22): error C2039: 'OnBnClickedCheck1': is not a member of 'SubjectNameDlg'
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.h(6): message : see declaration of 'SubjectNameDlg'
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(68,1): error C2601: 'OnBnClickedCheck1': local function definitions are illegal
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(19): message : this line contains a '{' which has not yet been matched
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(73,22): error C2039: 'OnBnClickedRdHome': is not a member of 'SubjectNameDlg'
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.h(6): message : see declaration of 'SubjectNameDlg'
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(74,1): error C2601: 'OnBnClickedRdHome': local function definitions are illegal
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(19): message : this line contains a '{' which has not yet been matched
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(78,22): error C2039: 'OnCbnSelchangeContext': is not a member of 'SubjectNameDlg'
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.h(6): message : see declaration of 'SubjectNameDlg'
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(79,1): error C2601: 'OnCbnSelchangeContext': local function definitions are illegal
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(19): message : this line contains a '{' which has not yet been matched
+C:\Users\gmonPc\source\repos\todo_test\SubjectNameDlg.cpp(19): fatal error C1075: '{': no matching token found
+  todo_test.cpp
+  todo_testDlg.cpp
+  Generating Code...
